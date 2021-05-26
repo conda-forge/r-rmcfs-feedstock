@@ -53,7 +53,7 @@ test:
 
 about:
   home: www.ipipan.eu/staff/m.draminski/mcfs.html
-  license: GPL-3
+  license: GPL-3.0-only
   summary: MCFS-ID (Monte Carlo Feature Selection and Interdependency Discovery) is a Monte Carlo
     method-based tool for feature selection. It also allows for the discovery of interdependencies
     between the relevant features. MCFS-ID is particularly suitable for the analysis
