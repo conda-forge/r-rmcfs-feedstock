@@ -3,7 +3,7 @@ About r-rmcfs
 
 Home: www.ipipan.eu/staff/m.draminski/mcfs.html
 
-Package license: GPL-3
+Package license: GPL-3.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rmcfs-feedstock/blob/master/LICENSE.txt)
 
