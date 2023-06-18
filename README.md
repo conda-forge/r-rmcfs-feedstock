@@ -1,11 +1,11 @@
-About r-rmcfs
-=============
+About r-rmcfs-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rmcfs-feedstock/blob/main/LICENSE.txt)
 
 Home: www.ipipan.eu/staff/m.draminski/mcfs.html
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rmcfs-feedstock/blob/main/LICENSE.txt)
 
 Summary: MCFS-ID (Monte Carlo Feature Selection and Interdependency Discovery) is a Monte Carlo method-based tool for feature selection. It also allows for the discovery of interdependencies between the relevant features. MCFS-ID is particularly suitable for the analysis of high-dimensional, 'small n large p' transactional and biological data. M. Draminski, J. Koronacki (2018) <doi:10.18637/jss.v085.i12>.
 
